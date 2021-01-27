@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "REPORTES_REASEGURO_COASEGURO", "REPORTES_REASEGURO_COASEGURO\REPORTES_REASEGURO_COASEGURO.dtproj", "{3CBBD008-8B72-4D72-9BF3-4A76D358DAA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CBBD008-8B72-4D72-9BF3-4A76D358DAA2}.Development|Default.ActiveCfg = Development
+		{3CBBD008-8B72-4D72-9BF3-4A76D358DAA2}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7690F8C-044A-40D5-B395-D068A97E249A}
+	EndGlobalSection
+EndGlobal
